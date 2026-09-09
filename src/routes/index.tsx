@@ -42,13 +42,13 @@ import { useDashboardStore, type SyncStatus } from "@/lib/dashboard-store";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Viccon · Painel do Gestor de Tráfego — Agosto/2026" },
+      { title: "Viccon · Painel do Gestor de Tráfego — Setembro/2026" },
       {
         name: "description",
         content:
           "Painel Viccon para o controle mensal de ações, reunião de alinhamento, regra 4h, indicações e depoimentos do gestor de tráfego.",
       },
-      { property: "og:title", content: "Viccon · Painel do Gestor de Tráfego — Agosto/2026" },
+      { property: "og:title", content: "Viccon · Painel do Gestor de Tráfego — Setembro/2026" },
       {
         property: "og:description",
         content:
