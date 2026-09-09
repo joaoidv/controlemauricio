@@ -12,4 +12,11 @@ export default defineConfig({
     // nitro/vite builds from this
     server: { entry: "server" },
   },
+  // Force the Vercel Nitro preset for production deploys. The Lovable wrapper
+  // defaults to "cloudflare" and its own sandbox build overrides this back to
+  // "cloudflare-module", so this only takes effect outside Lovable (i.e. on Vercel),
+  // where it makes `npm run build` emit `.vercel/output` (Build Output API).
+  nitro: {
+    preset: "vercel",
+  },
 });
