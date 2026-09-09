@@ -3,8 +3,8 @@ import type { ActionState, MeetingState, FourHourWeek } from "./dashboard-data";
 import { CLIENTS, WEEK_STARTS, actionsForClient } from "./dashboard-data";
 import { supabase } from "@/integrations/supabase/client";
 
-const KEY = "gt-dashboard-v1";
-const ROW_ID = "main";
+const KEY = "gt-dashboard-2026-09";
+const ROW_ID = "2026-09";
 
 export type SyncStatus = "idle" | "saving" | "saved" | "error";
 
