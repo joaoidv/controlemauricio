@@ -29,9 +29,9 @@ export interface FourHourWeek {
   fails: Partial<Record<"seg" | "ter" | "qua" | "qui" | "sex", boolean>>;
 }
 
-export const MONTH_LABEL = "Agosto / 2026";
+export const MONTH_LABEL = "Setembro / 2026";
 export const DISCOUNT_VALUE = 25;
-export const MEETING_DEADLINE = "2026-08-10";
+export const MEETING_DEADLINE = "2026-09-10";
 
 export const CLIENTS: string[] = [
   "Ju Body",
@@ -45,11 +45,11 @@ export const CLIENTS: string[] = [
 ];
 
 export const WEEK_STARTS = [
-  "2026-08-03",
-  "2026-08-10",
-  "2026-08-17",
-  "2026-08-24",
-  "2026-08-31",
+  "2026-09-01",
+  "2026-09-07",
+  "2026-09-14",
+  "2026-09-21",
+  "2026-09-28",
 ];
 
 const SEED = actionsSeed as Array<{
