@@ -20,7 +20,6 @@ import {
   X,
   UserCog,
 } from "lucide-react";
-import vicconMark from "@/assets/viccon-mark.png.asset.json";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
@@ -188,7 +187,7 @@ function Sidebar({
       <div className="p-6">
         <div className="flex items-center gap-3">
           <div className="h-11 w-11 rounded-2xl bg-black/40 border border-white/10 flex items-center justify-center overflow-hidden shadow-[var(--shadow-glow)]">
-            <img src={vicconMark.url} alt="Viccon" className="h-8 w-8 object-contain" />
+            <img src="/images/logo.png" alt="Logo" className="h-full w-full object-cover" />
           </div>
           <div>
             <div className="text-base font-semibold leading-tight tracking-[0.24em]">VICCON</div>

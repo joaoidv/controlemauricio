@@ -1,1 +1,3698 @@
-[{"id": 0, "client": "Ju Body", "date": "2026-09-02", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 1, "client": "Ju Body", "date": "2026-09-02", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 2, "client": "Ju Body", "date": "2026-09-02", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 3, "client": "Ju Body", "date": "2026-09-02", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 4, "client": "Ju Body", "date": "2026-09-04", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 5, "client": "Ju Body", "date": "2026-09-04", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 6, "client": "Ju Body", "date": "2026-09-04", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 7, "client": "Ju Body", "date": "2026-09-07", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 8, "client": "Ju Body", "date": "2026-09-07", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 9, "client": "Ju Body", "date": "2026-09-07", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 10, "client": "Ju Body", "date": "2026-09-07", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 11, "client": "Ju Body", "date": "2026-09-09", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 12, "client": "Ju Body", "date": "2026-09-09", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 13, "client": "Ju Body", "date": "2026-09-09", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 14, "client": "Ju Body", "date": "2026-09-09", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 15, "client": "Ju Body", "date": "2026-09-11", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 16, "client": "Ju Body", "date": "2026-09-11", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 17, "client": "Ju Body", "date": "2026-09-11", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 18, "client": "Ju Body", "date": "2026-09-14", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 19, "client": "Ju Body", "date": "2026-09-14", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 20, "client": "Ju Body", "date": "2026-09-14", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 21, "client": "Ju Body", "date": "2026-09-14", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 22, "client": "Ju Body", "date": "2026-09-16", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 23, "client": "Ju Body", "date": "2026-09-16", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 24, "client": "Ju Body", "date": "2026-09-16", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 25, "client": "Ju Body", "date": "2026-09-16", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 26, "client": "Ju Body", "date": "2026-09-18", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 27, "client": "Ju Body", "date": "2026-09-18", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 28, "client": "Ju Body", "date": "2026-09-18", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 29, "client": "Ju Body", "date": "2026-09-21", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 30, "client": "Ju Body", "date": "2026-09-21", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 31, "client": "Ju Body", "date": "2026-09-21", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 32, "client": "Ju Body", "date": "2026-09-21", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 33, "client": "Ju Body", "date": "2026-09-23", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 34, "client": "Ju Body", "date": "2026-09-23", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 35, "client": "Ju Body", "date": "2026-09-23", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 36, "client": "Ju Body", "date": "2026-09-23", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 37, "client": "Ju Body", "date": "2026-09-25", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 38, "client": "Ju Body", "date": "2026-09-25", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 39, "client": "Ju Body", "date": "2026-09-25", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 40, "client": "Ju Body", "date": "2026-09-28", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 41, "client": "Ju Body", "date": "2026-09-28", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 42, "client": "Ju Body", "date": "2026-09-28", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 43, "client": "Ju Body", "date": "2026-09-28", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 44, "client": "Ju Body", "date": "2026-09-30", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 45, "client": "Ju Body", "date": "2026-09-30", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 46, "client": "Ju Body", "date": "2026-09-30", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 47, "client": "Ju Body", "date": "2026-09-30", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 48, "client": "Izzy Burguer", "date": "2026-09-02", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 49, "client": "Izzy Burguer", "date": "2026-09-02", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 50, "client": "Izzy Burguer", "date": "2026-09-02", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 51, "client": "Izzy Burguer", "date": "2026-09-02", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 52, "client": "Izzy Burguer", "date": "2026-09-04", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 53, "client": "Izzy Burguer", "date": "2026-09-04", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 54, "client": "Izzy Burguer", "date": "2026-09-04", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 55, "client": "Izzy Burguer", "date": "2026-09-07", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 56, "client": "Izzy Burguer", "date": "2026-09-07", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 57, "client": "Izzy Burguer", "date": "2026-09-07", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 58, "client": "Izzy Burguer", "date": "2026-09-07", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 59, "client": "Izzy Burguer", "date": "2026-09-09", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 60, "client": "Izzy Burguer", "date": "2026-09-09", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 61, "client": "Izzy Burguer", "date": "2026-09-09", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 62, "client": "Izzy Burguer", "date": "2026-09-09", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 63, "client": "Izzy Burguer", "date": "2026-09-11", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 64, "client": "Izzy Burguer", "date": "2026-09-11", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 65, "client": "Izzy Burguer", "date": "2026-09-11", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 66, "client": "Izzy Burguer", "date": "2026-09-14", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 67, "client": "Izzy Burguer", "date": "2026-09-14", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 68, "client": "Izzy Burguer", "date": "2026-09-14", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 69, "client": "Izzy Burguer", "date": "2026-09-14", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 70, "client": "Izzy Burguer", "date": "2026-09-16", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 71, "client": "Izzy Burguer", "date": "2026-09-16", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 72, "client": "Izzy Burguer", "date": "2026-09-16", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 73, "client": "Izzy Burguer", "date": "2026-09-16", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 74, "client": "Izzy Burguer", "date": "2026-09-18", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 75, "client": "Izzy Burguer", "date": "2026-09-18", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 76, "client": "Izzy Burguer", "date": "2026-09-18", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 77, "client": "Izzy Burguer", "date": "2026-09-21", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 78, "client": "Izzy Burguer", "date": "2026-09-21", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 79, "client": "Izzy Burguer", "date": "2026-09-21", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 80, "client": "Izzy Burguer", "date": "2026-09-21", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 81, "client": "Izzy Burguer", "date": "2026-09-23", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 82, "client": "Izzy Burguer", "date": "2026-09-23", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 83, "client": "Izzy Burguer", "date": "2026-09-23", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 84, "client": "Izzy Burguer", "date": "2026-09-23", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 85, "client": "Izzy Burguer", "date": "2026-09-25", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 86, "client": "Izzy Burguer", "date": "2026-09-25", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 87, "client": "Izzy Burguer", "date": "2026-09-25", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 88, "client": "Izzy Burguer", "date": "2026-09-28", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 89, "client": "Izzy Burguer", "date": "2026-09-28", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 90, "client": "Izzy Burguer", "date": "2026-09-28", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 91, "client": "Izzy Burguer", "date": "2026-09-28", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 92, "client": "Izzy Burguer", "date": "2026-09-30", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 93, "client": "Izzy Burguer", "date": "2026-09-30", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 94, "client": "Izzy Burguer", "date": "2026-09-30", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 95, "client": "Izzy Burguer", "date": "2026-09-30", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 96, "client": "Vanessa Premium", "date": "2026-09-02", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 97, "client": "Vanessa Premium", "date": "2026-09-02", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 98, "client": "Vanessa Premium", "date": "2026-09-02", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 99, "client": "Vanessa Premium", "date": "2026-09-02", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 100, "client": "Vanessa Premium", "date": "2026-09-04", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 101, "client": "Vanessa Premium", "date": "2026-09-04", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 102, "client": "Vanessa Premium", "date": "2026-09-04", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 103, "client": "Vanessa Premium", "date": "2026-09-07", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 104, "client": "Vanessa Premium", "date": "2026-09-07", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 105, "client": "Vanessa Premium", "date": "2026-09-07", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 106, "client": "Vanessa Premium", "date": "2026-09-07", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 107, "client": "Vanessa Premium", "date": "2026-09-09", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 108, "client": "Vanessa Premium", "date": "2026-09-09", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 109, "client": "Vanessa Premium", "date": "2026-09-09", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 110, "client": "Vanessa Premium", "date": "2026-09-09", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 111, "client": "Vanessa Premium", "date": "2026-09-11", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 112, "client": "Vanessa Premium", "date": "2026-09-11", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 113, "client": "Vanessa Premium", "date": "2026-09-11", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 114, "client": "Vanessa Premium", "date": "2026-09-14", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 115, "client": "Vanessa Premium", "date": "2026-09-14", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 116, "client": "Vanessa Premium", "date": "2026-09-14", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 117, "client": "Vanessa Premium", "date": "2026-09-14", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 118, "client": "Vanessa Premium", "date": "2026-09-16", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 119, "client": "Vanessa Premium", "date": "2026-09-16", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 120, "client": "Vanessa Premium", "date": "2026-09-16", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 121, "client": "Vanessa Premium", "date": "2026-09-16", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 122, "client": "Vanessa Premium", "date": "2026-09-18", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 123, "client": "Vanessa Premium", "date": "2026-09-18", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 124, "client": "Vanessa Premium", "date": "2026-09-18", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 125, "client": "Vanessa Premium", "date": "2026-09-21", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 126, "client": "Vanessa Premium", "date": "2026-09-21", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 127, "client": "Vanessa Premium", "date": "2026-09-21", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 128, "client": "Vanessa Premium", "date": "2026-09-21", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 129, "client": "Vanessa Premium", "date": "2026-09-23", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 130, "client": "Vanessa Premium", "date": "2026-09-23", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 131, "client": "Vanessa Premium", "date": "2026-09-23", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 132, "client": "Vanessa Premium", "date": "2026-09-23", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 133, "client": "Vanessa Premium", "date": "2026-09-25", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 134, "client": "Vanessa Premium", "date": "2026-09-25", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 135, "client": "Vanessa Premium", "date": "2026-09-25", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 136, "client": "Vanessa Premium", "date": "2026-09-28", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 137, "client": "Vanessa Premium", "date": "2026-09-28", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 138, "client": "Vanessa Premium", "date": "2026-09-28", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 139, "client": "Vanessa Premium", "date": "2026-09-28", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 140, "client": "Vanessa Premium", "date": "2026-09-30", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 141, "client": "Vanessa Premium", "date": "2026-09-30", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 142, "client": "Vanessa Premium", "date": "2026-09-30", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 143, "client": "Vanessa Premium", "date": "2026-09-30", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 144, "client": "Emalteria Daniela", "date": "2026-09-02", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 145, "client": "Emalteria Daniela", "date": "2026-09-02", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 146, "client": "Emalteria Daniela", "date": "2026-09-02", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 147, "client": "Emalteria Daniela", "date": "2026-09-02", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 148, "client": "Emalteria Daniela", "date": "2026-09-04", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 149, "client": "Emalteria Daniela", "date": "2026-09-04", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 150, "client": "Emalteria Daniela", "date": "2026-09-04", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 151, "client": "Emalteria Daniela", "date": "2026-09-07", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 152, "client": "Emalteria Daniela", "date": "2026-09-07", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 153, "client": "Emalteria Daniela", "date": "2026-09-07", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 154, "client": "Emalteria Daniela", "date": "2026-09-07", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 155, "client": "Emalteria Daniela", "date": "2026-09-09", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 156, "client": "Emalteria Daniela", "date": "2026-09-09", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 157, "client": "Emalteria Daniela", "date": "2026-09-09", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 158, "client": "Emalteria Daniela", "date": "2026-09-09", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 159, "client": "Emalteria Daniela", "date": "2026-09-11", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 160, "client": "Emalteria Daniela", "date": "2026-09-11", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 161, "client": "Emalteria Daniela", "date": "2026-09-11", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 162, "client": "Emalteria Daniela", "date": "2026-09-14", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 163, "client": "Emalteria Daniela", "date": "2026-09-14", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 164, "client": "Emalteria Daniela", "date": "2026-09-14", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 165, "client": "Emalteria Daniela", "date": "2026-09-14", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 166, "client": "Emalteria Daniela", "date": "2026-09-16", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 167, "client": "Emalteria Daniela", "date": "2026-09-16", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 168, "client": "Emalteria Daniela", "date": "2026-09-16", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 169, "client": "Emalteria Daniela", "date": "2026-09-16", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 170, "client": "Emalteria Daniela", "date": "2026-09-18", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 171, "client": "Emalteria Daniela", "date": "2026-09-18", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 172, "client": "Emalteria Daniela", "date": "2026-09-18", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 173, "client": "Emalteria Daniela", "date": "2026-09-21", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 174, "client": "Emalteria Daniela", "date": "2026-09-21", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 175, "client": "Emalteria Daniela", "date": "2026-09-21", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 176, "client": "Emalteria Daniela", "date": "2026-09-21", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 177, "client": "Emalteria Daniela", "date": "2026-09-23", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 178, "client": "Emalteria Daniela", "date": "2026-09-23", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 179, "client": "Emalteria Daniela", "date": "2026-09-23", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 180, "client": "Emalteria Daniela", "date": "2026-09-23", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 181, "client": "Emalteria Daniela", "date": "2026-09-25", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 182, "client": "Emalteria Daniela", "date": "2026-09-25", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 183, "client": "Emalteria Daniela", "date": "2026-09-25", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 184, "client": "Emalteria Daniela", "date": "2026-09-28", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 185, "client": "Emalteria Daniela", "date": "2026-09-28", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 186, "client": "Emalteria Daniela", "date": "2026-09-28", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 187, "client": "Emalteria Daniela", "date": "2026-09-28", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 188, "client": "Emalteria Daniela", "date": "2026-09-30", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 189, "client": "Emalteria Daniela", "date": "2026-09-30", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 190, "client": "Emalteria Daniela", "date": "2026-09-30", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 191, "client": "Emalteria Daniela", "date": "2026-09-30", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 192, "client": "Poliana Campos", "date": "2026-09-02", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 193, "client": "Poliana Campos", "date": "2026-09-02", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 194, "client": "Poliana Campos", "date": "2026-09-02", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 195, "client": "Poliana Campos", "date": "2026-09-02", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 196, "client": "Poliana Campos", "date": "2026-09-04", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 197, "client": "Poliana Campos", "date": "2026-09-04", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 198, "client": "Poliana Campos", "date": "2026-09-04", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 199, "client": "Poliana Campos", "date": "2026-09-07", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 200, "client": "Poliana Campos", "date": "2026-09-07", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 201, "client": "Poliana Campos", "date": "2026-09-07", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 202, "client": "Poliana Campos", "date": "2026-09-07", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 203, "client": "Poliana Campos", "date": "2026-09-09", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 204, "client": "Poliana Campos", "date": "2026-09-09", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 205, "client": "Poliana Campos", "date": "2026-09-09", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 206, "client": "Poliana Campos", "date": "2026-09-09", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 207, "client": "Poliana Campos", "date": "2026-09-11", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 208, "client": "Poliana Campos", "date": "2026-09-11", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 209, "client": "Poliana Campos", "date": "2026-09-11", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 210, "client": "Poliana Campos", "date": "2026-09-14", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 211, "client": "Poliana Campos", "date": "2026-09-14", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 212, "client": "Poliana Campos", "date": "2026-09-14", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 213, "client": "Poliana Campos", "date": "2026-09-14", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 214, "client": "Poliana Campos", "date": "2026-09-16", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 215, "client": "Poliana Campos", "date": "2026-09-16", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 216, "client": "Poliana Campos", "date": "2026-09-16", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 217, "client": "Poliana Campos", "date": "2026-09-16", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 218, "client": "Poliana Campos", "date": "2026-09-18", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 219, "client": "Poliana Campos", "date": "2026-09-18", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 220, "client": "Poliana Campos", "date": "2026-09-18", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 221, "client": "Poliana Campos", "date": "2026-09-21", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 222, "client": "Poliana Campos", "date": "2026-09-21", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 223, "client": "Poliana Campos", "date": "2026-09-21", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 224, "client": "Poliana Campos", "date": "2026-09-21", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 225, "client": "Poliana Campos", "date": "2026-09-23", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 226, "client": "Poliana Campos", "date": "2026-09-23", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 227, "client": "Poliana Campos", "date": "2026-09-23", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 228, "client": "Poliana Campos", "date": "2026-09-23", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 229, "client": "Poliana Campos", "date": "2026-09-25", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 230, "client": "Poliana Campos", "date": "2026-09-25", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 231, "client": "Poliana Campos", "date": "2026-09-25", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 232, "client": "Poliana Campos", "date": "2026-09-28", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 233, "client": "Poliana Campos", "date": "2026-09-28", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 234, "client": "Poliana Campos", "date": "2026-09-28", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 235, "client": "Poliana Campos", "date": "2026-09-28", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 236, "client": "Poliana Campos", "date": "2026-09-30", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 237, "client": "Poliana Campos", "date": "2026-09-30", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 238, "client": "Poliana Campos", "date": "2026-09-30", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 239, "client": "Poliana Campos", "date": "2026-09-30", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 240, "client": "Elaine", "date": "2026-09-02", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 241, "client": "Elaine", "date": "2026-09-02", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 242, "client": "Elaine", "date": "2026-09-02", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 243, "client": "Elaine", "date": "2026-09-02", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 244, "client": "Elaine", "date": "2026-09-04", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 245, "client": "Elaine", "date": "2026-09-04", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 246, "client": "Elaine", "date": "2026-09-04", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 247, "client": "Elaine", "date": "2026-09-07", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 248, "client": "Elaine", "date": "2026-09-07", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 249, "client": "Elaine", "date": "2026-09-07", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 250, "client": "Elaine", "date": "2026-09-07", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 251, "client": "Elaine", "date": "2026-09-09", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 252, "client": "Elaine", "date": "2026-09-09", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 253, "client": "Elaine", "date": "2026-09-09", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 254, "client": "Elaine", "date": "2026-09-09", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 255, "client": "Elaine", "date": "2026-09-11", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 256, "client": "Elaine", "date": "2026-09-11", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 257, "client": "Elaine", "date": "2026-09-11", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 258, "client": "Elaine", "date": "2026-09-14", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 259, "client": "Elaine", "date": "2026-09-14", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 260, "client": "Elaine", "date": "2026-09-14", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 261, "client": "Elaine", "date": "2026-09-14", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 262, "client": "Elaine", "date": "2026-09-16", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 263, "client": "Elaine", "date": "2026-09-16", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 264, "client": "Elaine", "date": "2026-09-16", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 265, "client": "Elaine", "date": "2026-09-16", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 266, "client": "Elaine", "date": "2026-09-18", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 267, "client": "Elaine", "date": "2026-09-18", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 268, "client": "Elaine", "date": "2026-09-18", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 269, "client": "Elaine", "date": "2026-09-21", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 270, "client": "Elaine", "date": "2026-09-21", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 271, "client": "Elaine", "date": "2026-09-21", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 272, "client": "Elaine", "date": "2026-09-21", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 273, "client": "Elaine", "date": "2026-09-23", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 274, "client": "Elaine", "date": "2026-09-23", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 275, "client": "Elaine", "date": "2026-09-23", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 276, "client": "Elaine", "date": "2026-09-23", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 277, "client": "Elaine", "date": "2026-09-25", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 278, "client": "Elaine", "date": "2026-09-25", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 279, "client": "Elaine", "date": "2026-09-25", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 280, "client": "Elaine", "date": "2026-09-28", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 281, "client": "Elaine", "date": "2026-09-28", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 282, "client": "Elaine", "date": "2026-09-28", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 283, "client": "Elaine", "date": "2026-09-28", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 284, "client": "Elaine", "date": "2026-09-30", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 285, "client": "Elaine", "date": "2026-09-30", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 286, "client": "Elaine", "date": "2026-09-30", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 287, "client": "Elaine", "date": "2026-09-30", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 288, "client": "Cleiziane", "date": "2026-09-02", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 289, "client": "Cleiziane", "date": "2026-09-02", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 290, "client": "Cleiziane", "date": "2026-09-02", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 291, "client": "Cleiziane", "date": "2026-09-02", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 292, "client": "Cleiziane", "date": "2026-09-04", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 293, "client": "Cleiziane", "date": "2026-09-04", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 294, "client": "Cleiziane", "date": "2026-09-04", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 295, "client": "Cleiziane", "date": "2026-09-07", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 296, "client": "Cleiziane", "date": "2026-09-07", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 297, "client": "Cleiziane", "date": "2026-09-07", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 298, "client": "Cleiziane", "date": "2026-09-07", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 299, "client": "Cleiziane", "date": "2026-09-09", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 300, "client": "Cleiziane", "date": "2026-09-09", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 301, "client": "Cleiziane", "date": "2026-09-09", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 302, "client": "Cleiziane", "date": "2026-09-09", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 303, "client": "Cleiziane", "date": "2026-09-11", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 304, "client": "Cleiziane", "date": "2026-09-11", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 305, "client": "Cleiziane", "date": "2026-09-11", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 306, "client": "Cleiziane", "date": "2026-09-14", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 307, "client": "Cleiziane", "date": "2026-09-14", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 308, "client": "Cleiziane", "date": "2026-09-14", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 309, "client": "Cleiziane", "date": "2026-09-14", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 310, "client": "Cleiziane", "date": "2026-09-16", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 311, "client": "Cleiziane", "date": "2026-09-16", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 312, "client": "Cleiziane", "date": "2026-09-16", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 313, "client": "Cleiziane", "date": "2026-09-16", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 314, "client": "Cleiziane", "date": "2026-09-18", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 315, "client": "Cleiziane", "date": "2026-09-18", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 316, "client": "Cleiziane", "date": "2026-09-18", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 317, "client": "Cleiziane", "date": "2026-09-21", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 318, "client": "Cleiziane", "date": "2026-09-21", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 319, "client": "Cleiziane", "date": "2026-09-21", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 320, "client": "Cleiziane", "date": "2026-09-21", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 321, "client": "Cleiziane", "date": "2026-09-23", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 322, "client": "Cleiziane", "date": "2026-09-23", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 323, "client": "Cleiziane", "date": "2026-09-23", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 324, "client": "Cleiziane", "date": "2026-09-23", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 325, "client": "Cleiziane", "date": "2026-09-25", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 326, "client": "Cleiziane", "date": "2026-09-25", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 327, "client": "Cleiziane", "date": "2026-09-25", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 328, "client": "Cleiziane", "date": "2026-09-28", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 329, "client": "Cleiziane", "date": "2026-09-28", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 330, "client": "Cleiziane", "date": "2026-09-28", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 331, "client": "Cleiziane", "date": "2026-09-28", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 332, "client": "Cleiziane", "date": "2026-09-30", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 333, "client": "Cleiziane", "date": "2026-09-30", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 334, "client": "Cleiziane", "date": "2026-09-30", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 335, "client": "Cleiziane", "date": "2026-09-30", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 336, "client": "JOÃO TESTE", "date": "2026-09-02", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 337, "client": "JOÃO TESTE", "date": "2026-09-02", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 338, "client": "JOÃO TESTE", "date": "2026-09-02", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 339, "client": "JOÃO TESTE", "date": "2026-09-02", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 340, "client": "JOÃO TESTE", "date": "2026-09-04", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 341, "client": "JOÃO TESTE", "date": "2026-09-04", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 342, "client": "JOÃO TESTE", "date": "2026-09-04", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 343, "client": "JOÃO TESTE", "date": "2026-09-07", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 344, "client": "JOÃO TESTE", "date": "2026-09-07", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 345, "client": "JOÃO TESTE", "date": "2026-09-07", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 346, "client": "JOÃO TESTE", "date": "2026-09-07", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 347, "client": "JOÃO TESTE", "date": "2026-09-09", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 348, "client": "JOÃO TESTE", "date": "2026-09-09", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 349, "client": "JOÃO TESTE", "date": "2026-09-09", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 350, "client": "JOÃO TESTE", "date": "2026-09-09", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 351, "client": "JOÃO TESTE", "date": "2026-09-11", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 352, "client": "JOÃO TESTE", "date": "2026-09-11", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 353, "client": "JOÃO TESTE", "date": "2026-09-11", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 354, "client": "JOÃO TESTE", "date": "2026-09-14", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 355, "client": "JOÃO TESTE", "date": "2026-09-14", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 356, "client": "JOÃO TESTE", "date": "2026-09-14", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 357, "client": "JOÃO TESTE", "date": "2026-09-14", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 358, "client": "JOÃO TESTE", "date": "2026-09-16", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 359, "client": "JOÃO TESTE", "date": "2026-09-16", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 360, "client": "JOÃO TESTE", "date": "2026-09-16", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 361, "client": "JOÃO TESTE", "date": "2026-09-16", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 362, "client": "JOÃO TESTE", "date": "2026-09-18", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 363, "client": "JOÃO TESTE", "date": "2026-09-18", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 364, "client": "JOÃO TESTE", "date": "2026-09-18", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 365, "client": "JOÃO TESTE", "date": "2026-09-21", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 366, "client": "JOÃO TESTE", "date": "2026-09-21", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 367, "client": "JOÃO TESTE", "date": "2026-09-21", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 368, "client": "JOÃO TESTE", "date": "2026-09-21", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 369, "client": "JOÃO TESTE", "date": "2026-09-23", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 370, "client": "JOÃO TESTE", "date": "2026-09-23", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 371, "client": "JOÃO TESTE", "date": "2026-09-23", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 372, "client": "JOÃO TESTE", "date": "2026-09-23", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}, {"id": 373, "client": "JOÃO TESTE", "date": "2026-09-25", "day": "Sexta-feira", "action": "Participar da daily às 10:00."}, {"id": 374, "client": "JOÃO TESTE", "date": "2026-09-25", "day": "Sexta-feira", "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."}, {"id": 375, "client": "JOÃO TESTE", "date": "2026-09-25", "day": "Sexta-feira", "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."}, {"id": 376, "client": "JOÃO TESTE", "date": "2026-09-28", "day": "Segunda-feira", "action": "Enviar complemento dos relatórios até às 12:00."}, {"id": 377, "client": "JOÃO TESTE", "date": "2026-09-28", "day": "Segunda-feira", "action": "Cobrar feedback dos clientes no grupo referente aos resultados."}, {"id": 378, "client": "JOÃO TESTE", "date": "2026-09-28", "day": "Segunda-feira", "action": "Participar da daily às 10:00."}, {"id": 379, "client": "JOÃO TESTE", "date": "2026-09-28", "day": "Segunda-feira", "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."}, {"id": 380, "client": "JOÃO TESTE", "date": "2026-09-30", "day": "Quarta-feira", "action": "Participar da daily às 10:00."}, {"id": 381, "client": "JOÃO TESTE", "date": "2026-09-30", "day": "Quarta-feira", "action": "Enviar referências para o cliente gravar."}, {"id": 382, "client": "JOÃO TESTE", "date": "2026-09-30", "day": "Quarta-feira", "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."}, {"id": 383, "client": "JOÃO TESTE", "date": "2026-09-30", "day": "Quarta-feira", "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."}]
+[
+  {
+    "id": 0,
+    "client": "FM Imports",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 1,
+    "client": "FM Imports",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 2,
+    "client": "FM Imports",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 3,
+    "client": "FM Imports",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 4,
+    "client": "FM Imports",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 5,
+    "client": "FM Imports",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 6,
+    "client": "FM Imports",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 7,
+    "client": "FM Imports",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 8,
+    "client": "FM Imports",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 9,
+    "client": "FM Imports",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 10,
+    "client": "FM Imports",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 11,
+    "client": "FM Imports",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 12,
+    "client": "FM Imports",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 13,
+    "client": "FM Imports",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 14,
+    "client": "FM Imports",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 15,
+    "client": "FM Imports",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 16,
+    "client": "FM Imports",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 17,
+    "client": "FM Imports",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 18,
+    "client": "FM Imports",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 19,
+    "client": "FM Imports",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 20,
+    "client": "FM Imports",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 21,
+    "client": "FM Imports",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 22,
+    "client": "FM Imports",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 23,
+    "client": "FM Imports",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 24,
+    "client": "FM Imports",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 25,
+    "client": "FM Imports",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 26,
+    "client": "FM Imports",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 27,
+    "client": "FM Imports",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 28,
+    "client": "FM Imports",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 29,
+    "client": "FM Imports",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 30,
+    "client": "FM Imports",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 31,
+    "client": "FM Imports",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 32,
+    "client": "FM Imports",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 33,
+    "client": "FM Imports",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 34,
+    "client": "FM Imports",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 35,
+    "client": "FM Imports",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 36,
+    "client": "FM Imports",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 37,
+    "client": "FM Imports",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 38,
+    "client": "FM Imports",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 39,
+    "client": "FM Imports",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 40,
+    "client": "FM Imports",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 41,
+    "client": "FM Imports",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 42,
+    "client": "FM Imports",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 43,
+    "client": "FM Imports",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 44,
+    "client": "FM Imports",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 45,
+    "client": "FM Imports",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 46,
+    "client": "FM Imports",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 47,
+    "client": "FM Imports",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 48,
+    "client": "Santo Laser",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 49,
+    "client": "Santo Laser",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 50,
+    "client": "Santo Laser",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 51,
+    "client": "Santo Laser",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 52,
+    "client": "Santo Laser",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 53,
+    "client": "Santo Laser",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 54,
+    "client": "Santo Laser",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 55,
+    "client": "Santo Laser",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 56,
+    "client": "Santo Laser",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 57,
+    "client": "Santo Laser",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 58,
+    "client": "Santo Laser",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 59,
+    "client": "Santo Laser",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 60,
+    "client": "Santo Laser",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 61,
+    "client": "Santo Laser",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 62,
+    "client": "Santo Laser",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 63,
+    "client": "Santo Laser",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 64,
+    "client": "Santo Laser",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 65,
+    "client": "Santo Laser",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 66,
+    "client": "Santo Laser",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 67,
+    "client": "Santo Laser",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 68,
+    "client": "Santo Laser",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 69,
+    "client": "Santo Laser",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 70,
+    "client": "Santo Laser",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 71,
+    "client": "Santo Laser",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 72,
+    "client": "Santo Laser",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 73,
+    "client": "Santo Laser",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 74,
+    "client": "Santo Laser",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 75,
+    "client": "Santo Laser",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 76,
+    "client": "Santo Laser",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 77,
+    "client": "Santo Laser",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 78,
+    "client": "Santo Laser",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 79,
+    "client": "Santo Laser",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 80,
+    "client": "Santo Laser",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 81,
+    "client": "Santo Laser",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 82,
+    "client": "Santo Laser",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 83,
+    "client": "Santo Laser",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 84,
+    "client": "Santo Laser",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 85,
+    "client": "Santo Laser",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 86,
+    "client": "Santo Laser",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 87,
+    "client": "Santo Laser",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 88,
+    "client": "Santo Laser",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 89,
+    "client": "Santo Laser",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 90,
+    "client": "Santo Laser",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 91,
+    "client": "Santo Laser",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 92,
+    "client": "Santo Laser",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 93,
+    "client": "Santo Laser",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 94,
+    "client": "Santo Laser",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 95,
+    "client": "Santo Laser",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 96,
+    "client": "Dw Apple",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 97,
+    "client": "Dw Apple",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 98,
+    "client": "Dw Apple",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 99,
+    "client": "Dw Apple",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 100,
+    "client": "Dw Apple",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 101,
+    "client": "Dw Apple",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 102,
+    "client": "Dw Apple",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 103,
+    "client": "Dw Apple",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 104,
+    "client": "Dw Apple",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 105,
+    "client": "Dw Apple",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 106,
+    "client": "Dw Apple",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 107,
+    "client": "Dw Apple",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 108,
+    "client": "Dw Apple",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 109,
+    "client": "Dw Apple",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 110,
+    "client": "Dw Apple",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 111,
+    "client": "Dw Apple",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 112,
+    "client": "Dw Apple",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 113,
+    "client": "Dw Apple",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 114,
+    "client": "Dw Apple",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 115,
+    "client": "Dw Apple",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 116,
+    "client": "Dw Apple",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 117,
+    "client": "Dw Apple",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 118,
+    "client": "Dw Apple",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 119,
+    "client": "Dw Apple",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 120,
+    "client": "Dw Apple",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 121,
+    "client": "Dw Apple",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 122,
+    "client": "Dw Apple",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 123,
+    "client": "Dw Apple",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 124,
+    "client": "Dw Apple",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 125,
+    "client": "Dw Apple",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 126,
+    "client": "Dw Apple",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 127,
+    "client": "Dw Apple",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 128,
+    "client": "Dw Apple",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 129,
+    "client": "Dw Apple",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 130,
+    "client": "Dw Apple",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 131,
+    "client": "Dw Apple",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 132,
+    "client": "Dw Apple",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 133,
+    "client": "Dw Apple",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 134,
+    "client": "Dw Apple",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 135,
+    "client": "Dw Apple",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 136,
+    "client": "Dw Apple",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 137,
+    "client": "Dw Apple",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 138,
+    "client": "Dw Apple",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 139,
+    "client": "Dw Apple",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 140,
+    "client": "Dw Apple",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 141,
+    "client": "Dw Apple",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 142,
+    "client": "Dw Apple",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 143,
+    "client": "Dw Apple",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 144,
+    "client": "Poliana Campos",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 145,
+    "client": "Poliana Campos",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 146,
+    "client": "Poliana Campos",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 147,
+    "client": "Poliana Campos",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 148,
+    "client": "Poliana Campos",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 149,
+    "client": "Poliana Campos",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 150,
+    "client": "Poliana Campos",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 151,
+    "client": "Poliana Campos",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 152,
+    "client": "Poliana Campos",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 153,
+    "client": "Poliana Campos",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 154,
+    "client": "Poliana Campos",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 155,
+    "client": "Poliana Campos",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 156,
+    "client": "Poliana Campos",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 157,
+    "client": "Poliana Campos",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 158,
+    "client": "Poliana Campos",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 159,
+    "client": "Poliana Campos",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 160,
+    "client": "Poliana Campos",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 161,
+    "client": "Poliana Campos",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 162,
+    "client": "Poliana Campos",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 163,
+    "client": "Poliana Campos",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 164,
+    "client": "Poliana Campos",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 165,
+    "client": "Poliana Campos",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 166,
+    "client": "Poliana Campos",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 167,
+    "client": "Poliana Campos",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 168,
+    "client": "Poliana Campos",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 169,
+    "client": "Poliana Campos",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 170,
+    "client": "Poliana Campos",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 171,
+    "client": "Poliana Campos",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 172,
+    "client": "Poliana Campos",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 173,
+    "client": "Poliana Campos",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 174,
+    "client": "Poliana Campos",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 175,
+    "client": "Poliana Campos",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 176,
+    "client": "Poliana Campos",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 177,
+    "client": "Poliana Campos",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 178,
+    "client": "Poliana Campos",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 179,
+    "client": "Poliana Campos",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 180,
+    "client": "Poliana Campos",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 181,
+    "client": "Poliana Campos",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 182,
+    "client": "Poliana Campos",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 183,
+    "client": "Poliana Campos",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 184,
+    "client": "Poliana Campos",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 185,
+    "client": "Poliana Campos",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 186,
+    "client": "Poliana Campos",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 187,
+    "client": "Poliana Campos",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 188,
+    "client": "Poliana Campos",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 189,
+    "client": "Poliana Campos",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 190,
+    "client": "Poliana Campos",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 191,
+    "client": "Poliana Campos",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 192,
+    "client": "Henrique Masko",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 193,
+    "client": "Henrique Masko",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 194,
+    "client": "Henrique Masko",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 195,
+    "client": "Henrique Masko",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 196,
+    "client": "Henrique Masko",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 197,
+    "client": "Henrique Masko",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 198,
+    "client": "Henrique Masko",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 199,
+    "client": "Henrique Masko",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 200,
+    "client": "Henrique Masko",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 201,
+    "client": "Henrique Masko",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 202,
+    "client": "Henrique Masko",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 203,
+    "client": "Henrique Masko",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 204,
+    "client": "Henrique Masko",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 205,
+    "client": "Henrique Masko",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 206,
+    "client": "Henrique Masko",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 207,
+    "client": "Henrique Masko",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 208,
+    "client": "Henrique Masko",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 209,
+    "client": "Henrique Masko",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 210,
+    "client": "Henrique Masko",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 211,
+    "client": "Henrique Masko",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 212,
+    "client": "Henrique Masko",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 213,
+    "client": "Henrique Masko",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 214,
+    "client": "Henrique Masko",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 215,
+    "client": "Henrique Masko",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 216,
+    "client": "Henrique Masko",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 217,
+    "client": "Henrique Masko",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 218,
+    "client": "Henrique Masko",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 219,
+    "client": "Henrique Masko",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 220,
+    "client": "Henrique Masko",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 221,
+    "client": "Henrique Masko",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 222,
+    "client": "Henrique Masko",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 223,
+    "client": "Henrique Masko",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 224,
+    "client": "Henrique Masko",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 225,
+    "client": "Henrique Masko",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 226,
+    "client": "Henrique Masko",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 227,
+    "client": "Henrique Masko",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 228,
+    "client": "Henrique Masko",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 229,
+    "client": "Henrique Masko",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 230,
+    "client": "Henrique Masko",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 231,
+    "client": "Henrique Masko",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 232,
+    "client": "Henrique Masko",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 233,
+    "client": "Henrique Masko",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 234,
+    "client": "Henrique Masko",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 235,
+    "client": "Henrique Masko",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 236,
+    "client": "Henrique Masko",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 237,
+    "client": "Henrique Masko",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 238,
+    "client": "Henrique Masko",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 239,
+    "client": "Henrique Masko",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 240,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 241,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 242,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 243,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 244,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 245,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 246,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 247,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 248,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 249,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 250,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 251,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 252,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 253,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 254,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 255,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 256,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 257,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 258,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 259,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 260,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 261,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 262,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 263,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 264,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 265,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 266,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 267,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 268,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 269,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 270,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 271,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 272,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 273,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 274,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 275,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 276,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 277,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 278,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 279,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 280,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 281,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 282,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 283,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 284,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 285,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 286,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 287,
+    "client": "Claudio Barbosa",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 288,
+    "client": "Kids Toys",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 289,
+    "client": "Kids Toys",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 290,
+    "client": "Kids Toys",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 291,
+    "client": "Kids Toys",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 292,
+    "client": "Kids Toys",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 293,
+    "client": "Kids Toys",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 294,
+    "client": "Kids Toys",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 295,
+    "client": "Kids Toys",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 296,
+    "client": "Kids Toys",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 297,
+    "client": "Kids Toys",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 298,
+    "client": "Kids Toys",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 299,
+    "client": "Kids Toys",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 300,
+    "client": "Kids Toys",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 301,
+    "client": "Kids Toys",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 302,
+    "client": "Kids Toys",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 303,
+    "client": "Kids Toys",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 304,
+    "client": "Kids Toys",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 305,
+    "client": "Kids Toys",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 306,
+    "client": "Kids Toys",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 307,
+    "client": "Kids Toys",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 308,
+    "client": "Kids Toys",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 309,
+    "client": "Kids Toys",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 310,
+    "client": "Kids Toys",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 311,
+    "client": "Kids Toys",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 312,
+    "client": "Kids Toys",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 313,
+    "client": "Kids Toys",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 314,
+    "client": "Kids Toys",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 315,
+    "client": "Kids Toys",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 316,
+    "client": "Kids Toys",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 317,
+    "client": "Kids Toys",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 318,
+    "client": "Kids Toys",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 319,
+    "client": "Kids Toys",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 320,
+    "client": "Kids Toys",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 321,
+    "client": "Kids Toys",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 322,
+    "client": "Kids Toys",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 323,
+    "client": "Kids Toys",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 324,
+    "client": "Kids Toys",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 325,
+    "client": "Kids Toys",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 326,
+    "client": "Kids Toys",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 327,
+    "client": "Kids Toys",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 328,
+    "client": "Kids Toys",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 329,
+    "client": "Kids Toys",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 330,
+    "client": "Kids Toys",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 331,
+    "client": "Kids Toys",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 332,
+    "client": "Kids Toys",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 333,
+    "client": "Kids Toys",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 334,
+    "client": "Kids Toys",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 335,
+    "client": "Kids Toys",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 336,
+    "client": "Resultage",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 337,
+    "client": "Resultage",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 338,
+    "client": "Resultage",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 339,
+    "client": "Resultage",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 340,
+    "client": "Resultage",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 341,
+    "client": "Resultage",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 342,
+    "client": "Resultage",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 343,
+    "client": "Resultage",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 344,
+    "client": "Resultage",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 345,
+    "client": "Resultage",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 346,
+    "client": "Resultage",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 347,
+    "client": "Resultage",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 348,
+    "client": "Resultage",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 349,
+    "client": "Resultage",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 350,
+    "client": "Resultage",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 351,
+    "client": "Resultage",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 352,
+    "client": "Resultage",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 353,
+    "client": "Resultage",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 354,
+    "client": "Resultage",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 355,
+    "client": "Resultage",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 356,
+    "client": "Resultage",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 357,
+    "client": "Resultage",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 358,
+    "client": "Resultage",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 359,
+    "client": "Resultage",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 360,
+    "client": "Resultage",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 361,
+    "client": "Resultage",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 362,
+    "client": "Resultage",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 363,
+    "client": "Resultage",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 364,
+    "client": "Resultage",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 365,
+    "client": "Resultage",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 366,
+    "client": "Resultage",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 367,
+    "client": "Resultage",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 368,
+    "client": "Resultage",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 369,
+    "client": "Resultage",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 370,
+    "client": "Resultage",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 371,
+    "client": "Resultage",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 372,
+    "client": "Resultage",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 373,
+    "client": "Resultage",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 374,
+    "client": "Resultage",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 375,
+    "client": "Resultage",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 376,
+    "client": "Resultage",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 377,
+    "client": "Resultage",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 378,
+    "client": "Resultage",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 379,
+    "client": "Resultage",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 380,
+    "client": "Resultage",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 381,
+    "client": "Resultage",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 382,
+    "client": "Resultage",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 383,
+    "client": "Resultage",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 384,
+    "client": "Rafaela Mori",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 385,
+    "client": "Rafaela Mori",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 386,
+    "client": "Rafaela Mori",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 387,
+    "client": "Rafaela Mori",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 388,
+    "client": "Rafaela Mori",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 389,
+    "client": "Rafaela Mori",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 390,
+    "client": "Rafaela Mori",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 391,
+    "client": "Rafaela Mori",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 392,
+    "client": "Rafaela Mori",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 393,
+    "client": "Rafaela Mori",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 394,
+    "client": "Rafaela Mori",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 395,
+    "client": "Rafaela Mori",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 396,
+    "client": "Rafaela Mori",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 397,
+    "client": "Rafaela Mori",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 398,
+    "client": "Rafaela Mori",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 399,
+    "client": "Rafaela Mori",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 400,
+    "client": "Rafaela Mori",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 401,
+    "client": "Rafaela Mori",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 402,
+    "client": "Rafaela Mori",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 403,
+    "client": "Rafaela Mori",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 404,
+    "client": "Rafaela Mori",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 405,
+    "client": "Rafaela Mori",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 406,
+    "client": "Rafaela Mori",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 407,
+    "client": "Rafaela Mori",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 408,
+    "client": "Rafaela Mori",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 409,
+    "client": "Rafaela Mori",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 410,
+    "client": "Rafaela Mori",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 411,
+    "client": "Rafaela Mori",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 412,
+    "client": "Rafaela Mori",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 413,
+    "client": "Rafaela Mori",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 414,
+    "client": "Rafaela Mori",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 415,
+    "client": "Rafaela Mori",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 416,
+    "client": "Rafaela Mori",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 417,
+    "client": "Rafaela Mori",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 418,
+    "client": "Rafaela Mori",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 419,
+    "client": "Rafaela Mori",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 420,
+    "client": "Rafaela Mori",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 421,
+    "client": "Rafaela Mori",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 422,
+    "client": "Rafaela Mori",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 423,
+    "client": "Rafaela Mori",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 424,
+    "client": "Rafaela Mori",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 425,
+    "client": "Rafaela Mori",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 426,
+    "client": "Rafaela Mori",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 427,
+    "client": "Rafaela Mori",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 428,
+    "client": "Rafaela Mori",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 429,
+    "client": "Rafaela Mori",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 430,
+    "client": "Rafaela Mori",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 431,
+    "client": "Rafaela Mori",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 432,
+    "client": "Arte Revide",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 433,
+    "client": "Arte Revide",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 434,
+    "client": "Arte Revide",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 435,
+    "client": "Arte Revide",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 436,
+    "client": "Arte Revide",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 437,
+    "client": "Arte Revide",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 438,
+    "client": "Arte Revide",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 439,
+    "client": "Arte Revide",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 440,
+    "client": "Arte Revide",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 441,
+    "client": "Arte Revide",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 442,
+    "client": "Arte Revide",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 443,
+    "client": "Arte Revide",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 444,
+    "client": "Arte Revide",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 445,
+    "client": "Arte Revide",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 446,
+    "client": "Arte Revide",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 447,
+    "client": "Arte Revide",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 448,
+    "client": "Arte Revide",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 449,
+    "client": "Arte Revide",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 450,
+    "client": "Arte Revide",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 451,
+    "client": "Arte Revide",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 452,
+    "client": "Arte Revide",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 453,
+    "client": "Arte Revide",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 454,
+    "client": "Arte Revide",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 455,
+    "client": "Arte Revide",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 456,
+    "client": "Arte Revide",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 457,
+    "client": "Arte Revide",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 458,
+    "client": "Arte Revide",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 459,
+    "client": "Arte Revide",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 460,
+    "client": "Arte Revide",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 461,
+    "client": "Arte Revide",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 462,
+    "client": "Arte Revide",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 463,
+    "client": "Arte Revide",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 464,
+    "client": "Arte Revide",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 465,
+    "client": "Arte Revide",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 466,
+    "client": "Arte Revide",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 467,
+    "client": "Arte Revide",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 468,
+    "client": "Arte Revide",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 469,
+    "client": "Arte Revide",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 470,
+    "client": "Arte Revide",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 471,
+    "client": "Arte Revide",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 472,
+    "client": "Arte Revide",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 473,
+    "client": "Arte Revide",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 474,
+    "client": "Arte Revide",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 475,
+    "client": "Arte Revide",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 476,
+    "client": "Arte Revide",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 477,
+    "client": "Arte Revide",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 478,
+    "client": "Arte Revide",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 479,
+    "client": "Arte Revide",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 480,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 481,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 482,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 483,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-02",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 484,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 485,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 486,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-04",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 487,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 488,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 489,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 490,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-07",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 491,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 492,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 493,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 494,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-09",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 495,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 496,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 497,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-11",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 498,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 499,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 500,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 501,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-14",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 502,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 503,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 504,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 505,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-16",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 506,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 507,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 508,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-18",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 509,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 510,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 511,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 512,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-21",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 513,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 514,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 515,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 516,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-23",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  },
+  {
+    "id": 517,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 518,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Enviar checklist de otimização seguindo o modelo pré-estabelecido."
+  },
+  {
+    "id": 519,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-25",
+    "day": "Sexta-feira",
+    "action": "Verificar saldo de todas as contas para que não parem durante o final de semana."
+  },
+  {
+    "id": 520,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Enviar complemento dos relatórios até às 12:00."
+  },
+  {
+    "id": 521,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Cobrar feedback dos clientes no grupo referente aos resultados."
+  },
+  {
+    "id": 522,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 523,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-28",
+    "day": "Segunda-feira",
+    "action": "Com base no feedback dos clientes, realizar as otimizações cabíveis."
+  },
+  {
+    "id": 524,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Participar da daily às 10:00."
+  },
+  {
+    "id": 525,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Enviar referências para o cliente gravar."
+  },
+  {
+    "id": 526,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Atualização das ações realizadas pelo gestor, juntamente com as métricas do projeto, seguindo o modelo."
+  },
+  {
+    "id": 527,
+    "client": "Meirelles Advocacia",
+    "date": "2026-09-30",
+    "day": "Quarta-feira",
+    "action": "Reforçar a otimização/melhoria que foi aplicada na segunda-feira."
+  }
+]

@@ -34,14 +34,17 @@ export const DISCOUNT_VALUE = 25;
 export const MEETING_DEADLINE = "2026-09-10";
 
 export const CLIENTS: string[] = [
-  "Ju Body",
-  "Izzy Burguer",
-  "Vanessa Premium",
-  "Emalteria Daniela",
+  "FM Imports",
+  "Santo Laser",
+  "Dw Apple",
   "Poliana Campos",
-  "Elaine",
-  "Cleiziane",
-  "JOÃO TESTE",
+  "Henrique Masko",
+  "Claudio Barbosa",
+  "Kids Toys",
+  "Resultage",
+  "Rafaela Mori",
+  "Arte Revide",
+  "Meirelles Advocacia",
 ];
 
 export const WEEK_STARTS = [

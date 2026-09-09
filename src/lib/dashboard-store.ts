@@ -38,7 +38,7 @@ function emptyFourHour(): FourHourWeek[] {
   return WEEK_STARTS.map((w) => ({ weekStart: w, fails: {} }));
 }
 
-export const DEFAULT_MANAGER = "Richard";
+export const DEFAULT_MANAGER = "Maurício";
 
 function emptyExtras() {
   return { indication: false, indicationNote: "", testimonial: false, testimonialNote: "" };
